@@ -1,0 +1,9 @@
+.contenedor-principal{
+    display:flex;
+    grid-template-columns: auto auto auto auto;
+}
+header{
+    display:grid;
+    grid-template-columns: auto auto auto auto;
+}
+.buscador
